@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners
+        android:radius="180dp"/>
+    <solid
+        android:color="#67A47D"/>
+    <size
+        android:width="270dp"
+        />
+    <stroke
+        android:color="#CCD5AE"/>
+
+</shape>
+<!-- 메인화면 버튼 전용 디자인 -->

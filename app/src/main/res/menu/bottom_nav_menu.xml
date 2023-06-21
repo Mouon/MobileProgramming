@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="home"
+        android:checked="true"
+        app:showAsAction="always"
+        tools:ignore="AlwaysShowAction"
+        android:iconTint="@android:color/black"/>
+
+    <item
+        android:id="@+id/costFragment"
+        android:icon="@drawable/baseline_insert_chart_outlined_24"
+        android:title="cost"
+        app:showAsAction="always"
+        android:iconTint="@android:color/black"/>
+
+    <item
+        android:id="@+id/itemFragment"
+        android:icon="@drawable/baseline_list_alt_24"
+        android:title="item"
+        app:showAsAction="always"
+        android:iconTint="@android:color/black"/>
+    <item
+        android:id="@+id/settingFragment"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="setting"
+        app:showAsAction="always"
+        android:iconTint="@android:color/black"/>
+
+
+
+
+</menu>

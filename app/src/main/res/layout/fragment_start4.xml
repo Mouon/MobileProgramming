@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FEFAE0">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="200dp"
+
+        android:textSize="26dp"
+        android:text="저희 FOODJOA를 이용하기 위해\n한 단계밖에 남지 않으셨어요"/>
+
+    <android.widget.Button
+        android:id="@+id/signin_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/button_style"
+        android:textColor="@color/black"
+        android:layout_marginTop="100dp"
+        android:text="로그인하기"
+        />
+    <android.widget.Button
+        android:id="@+id/signup_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/button_style"
+        android:textColor="@color/black"
+        android:layout_marginTop="20dp"
+        android:text="회원가입하기"
+        />
+
+</LinearLayout>

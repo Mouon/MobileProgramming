@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_gray">#696969</color>
+    <color name="loading_Screen">#EE1D52</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="blue">#006FE6</color>
+    <color name="light_blue">#52A1F4</color>
+    <color name="dark_blue">#00448C</color>
+    <color name="light_gray">#AEAEAE</color>
+    <color name="middle_gray">#676767</color>
+    <color name="dark_gray">#424242</color>
+    <color name="trans">#002196F3</color>
+
+    <color name="light_background">#FFFFFFFF</color>
+    <color name="night_background">#222222</color>
+
+    <!--  routine color  -->
+    <color name="routine_red">#FF0000</color>
+    <color name="routine_orange">#FF9800</color>
+    <color name="routine_yellow">#FFD500</color>
+    <color name="routine_green">#0BB114</color>
+    <color name="routine_blue">#006FE6</color>
+    <color name="routine_navy">#07099E</color>
+    <color name="routine_purple">#5121BA</color>
+    <color name="routine_dark_gray">#424242</color>
+    <color name="routine_light_gray">#808080</color>
+    <color name="routine_white">#CFCFCF</color>
+</resources>
